@@ -16,7 +16,7 @@ Animasi masuk (scale) untuk efek yang lebih hidup.
 
 2. Halaman Detail Minuman
 
-Menampilkan gambar minuman ukuran besar.
+Menampilkan gambar minuman.
 
 Menampilkan penjelasan/deskripsi yang menarik.
 
@@ -32,7 +32,7 @@ Menggunakan TextEditingController dan setState().
 
 4. Desain UI Modern
 
-Warna lembut bernuansa kopi/brown.
+Warna biru cerah.
 
 Komponen reusable: DrinkCard & DrinkModel.
 
@@ -47,6 +47,7 @@ lib/
  ├─ pages/
  │   ├─ grid_page.dart
  │   └─ detail_page.dart
+ │   └─ home_page.dart
  └─ main.dart
 
 🛠 Teknologi yang Digunakan
