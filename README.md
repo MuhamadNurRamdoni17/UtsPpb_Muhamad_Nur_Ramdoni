@@ -1,6 +1,6 @@
 UtsPpb – Aplikasi katalog minuman haus (Daftar & Detail Minuman)
 
-Proyek ini adalah aplikasi Flutter yang menampilkan daftar minuman dari brand Hausan Talaga.
+Proyek ini adalah aplikasi Flutter yang menampilkan daftar minuman dari brand Haus.
 Aplikasi ini menyediakan tampilan grid modern, fitur pencarian minuman, halaman detail minuman, animasi halus, serta komponen UI yang dirancang secara modular menggunakan widget khusus.
 
 📌 Fitur Utama Aplikasi
